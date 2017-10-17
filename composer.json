@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Statflo\\": "src/Statflo"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "piphp/gpio": "^0.3.3"
+    }
+}
